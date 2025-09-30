@@ -1,6 +1,6 @@
 # YOLO Test
 
-This repository contains tests and experiments with the YOLO (You Only Look Once) object detection algorithm.
+This repository contains tests and experiments with the YOLO (You Only Look Once) hell nah it's just for farming achivements lol;
 
 ## Features
 
