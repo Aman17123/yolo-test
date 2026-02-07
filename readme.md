@@ -1,8 +1,8 @@
 # YOLO Test
 
-This repository contains tests and experiments with the YOLO (You Only Look Once) hell nah it's just for farming achivements lol;
+This repository contains tests and experiments with the YOLO (You Only Look Once) hell nah it's just for farming achivements lol;😂😂😂
 
-## Features
+## Features if this repo
 -This is for Readme Hero achievement 🚀
 - Sample YOLO models and configurations
 - Test scripts for image and video detection
